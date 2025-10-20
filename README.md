@@ -4,7 +4,7 @@ This project focuses on applying the knowledge acquired from the **HTML**, **CSS
 
 Through this project, I mainly learned how to **manipulate the DOM** and how to **use JavaScript events** effectively to create interactive elements on a webpage.
 
-You can view and play the live version of the project here: [Etch-a-Sketch Live Demo](https://mpantelakis.github.io/rock-paper-scissors/)
+You can view and play the live version of the project here: [Etch-a-Sketch Live Demo](https://mpantelakis.github.io/etch-a-sketch/)
 
 ---
 
