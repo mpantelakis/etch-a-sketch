@@ -15,6 +15,7 @@ function clearGrid() {
   for (let i = 0; i < gridSquares; i++) {
     for (let k = 0; k < gridSquares; k++) {
       squares[i][k].style.backgroundColor = "white";
+      squares[i][k].style.opacity = 0;
     }
   }
 }
